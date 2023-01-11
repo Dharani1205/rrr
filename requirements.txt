@@ -1,0 +1,5 @@
+# To ensure app dependencies are ported from your virtual environment/host 
+
+flask == 2.0.2
+gunicorn == 20.1.0
+mysql-connection
